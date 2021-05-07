@@ -24,12 +24,12 @@ import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 
-import com.example.clublaribera_app.MainActivity;
-import com.example.clublaribera_app.R;
-import com.example.clublaribera_app.modelos.Msj;
-import com.example.clublaribera_app.modelos.Usuario;
-import com.example.clublaribera_app.request.ApiClient;
-import com.example.clublaribera_app.ui.login.LoginActivity;
+import com.example.clublaribera_app_v2.MainActivity;
+import com.example.clublaribera_app_v2.R;
+import com.example.clublaribera_app_v2.modelos.Msj;
+import com.example.clublaribera_app_v2.modelos.Usuario;
+import com.example.clublaribera_app_v2.request.ApiClient;
+import com.example.clublaribera_app_v2.ui.login.LoginActivity;
 import com.google.gson.Gson;
 
 import java.io.ByteArrayOutputStream;

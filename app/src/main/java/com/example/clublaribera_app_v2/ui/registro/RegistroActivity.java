@@ -21,11 +21,11 @@ import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.example.clublaribera_app.R;
-import com.example.clublaribera_app.modelos.Grupo;
-import com.example.clublaribera_app.modelos.TipoUsuario;
-import com.example.clublaribera_app.modelos.Usuario;
-import com.example.clublaribera_app.ui.login.LoginActivity;
+import com.example.clublaribera_app_v2.R;
+import com.example.clublaribera_app_v2.modelos.Grupo;
+import com.example.clublaribera_app_v2.modelos.TipoUsuario;
+import com.example.clublaribera_app_v2.modelos.Usuario;
+import com.example.clublaribera_app_v2.ui.login.LoginActivity;
 
 import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;

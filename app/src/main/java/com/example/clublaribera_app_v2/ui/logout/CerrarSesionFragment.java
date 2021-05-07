@@ -12,7 +12,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.clublaribera_app.R;
+import com.example.clublaribera_app_v2.R;
 
 
 public class CerrarSesionFragment extends Fragment {
@@ -37,7 +37,6 @@ public class CerrarSesionFragment extends Fragment {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 dialog.cancel();
-                Navigation.findNavController(v).navigate(R.id.nav_home, null);
             }
         }).show();
     }

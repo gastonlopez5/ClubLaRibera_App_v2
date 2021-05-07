@@ -10,8 +10,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.clublaribera_app.R;
-import com.example.clublaribera_app.ui.login.LoginViewModel;
+import com.example.clublaribera_app_v2.R;
+import com.example.clublaribera_app_v2.ui.login.LoginViewModel;
 
 public class ForgotPassActivity extends AppCompatActivity {
 
